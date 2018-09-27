@@ -1,0 +1,7 @@
+G:\c#.netPrograms\InterfaceProgramm\InterfaceProgramm\bin\Debug\InterfaceProgramm.exe.config
+G:\c#.netPrograms\InterfaceProgramm\InterfaceProgramm\bin\Debug\InterfaceProgramm.exe
+G:\c#.netPrograms\InterfaceProgramm\InterfaceProgramm\bin\Debug\InterfaceProgramm.pdb
+G:\c#.netPrograms\InterfaceProgramm\InterfaceProgramm\obj\Debug\InterfaceProgramm.csprojAssemblyReference.cache
+G:\c#.netPrograms\InterfaceProgramm\InterfaceProgramm\obj\Debug\InterfaceProgramm.csproj.CoreCompileInputs.cache
+G:\c#.netPrograms\InterfaceProgramm\InterfaceProgramm\obj\Debug\InterfaceProgramm.exe
+G:\c#.netPrograms\InterfaceProgramm\InterfaceProgramm\obj\Debug\InterfaceProgramm.pdb
